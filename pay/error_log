@@ -1,0 +1,5 @@
+[05-Sep-2013 20:07:14 Europe/Moscow] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/calltaxi/public_html/pay/process.php on line 151
+[05-Sep-2013 20:25:40 Europe/Moscow] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/calltaxi/public_html/pay/process.php on line 152
+[05-Sep-2013 20:25:40 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/calltaxi/public_html/pay/process.php:152) in /home/calltaxi/public_html/pay/process.php on line 153
+[07-Sep-2013 18:25:07 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/calltaxi/public_html/pay/process.php on line 149
+[07-Sep-2013 18:25:27 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/calltaxi/public_html/pay/process.php on line 149
